@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://raw.githubusercontent.com/ghostcloudcode/aem-ssrf-runtime-20261023/main/byom"
+    type: "markup"
+    suffix: ".html"
